@@ -1,5 +1,5 @@
 # News_Headline_Generator
-A Fun little app that uses Natural Language Processing to generate headlines as a Daily Mail reporter.
+A Fun little app that uses Natural Language Processing to generate headlines like a Daily Mail reporter.
 
 
 ## TODO:
