@@ -2,7 +2,7 @@
 A Fun little app that uses Natural Language Processing to generate headlines as a Daily Mail reporter.
 
 
-##TODO:
+## TODO:
 - Make a generating language model that can update its counts with new daily headlines
     -- Need to write a parser that tokenises the daily mail api responce
     -- Need to connect the language model to a database that keeps the count
